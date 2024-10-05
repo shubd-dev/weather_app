@@ -10,4 +10,4 @@ This is a simple **Weather App** built using **HTML**, **CSS**, **JavaScript**, 
 - Display a relevant weather icon 🌤️
 - Error handling for invalid city names ❌
 
-visit [here](https://shubd-dev.github.io/weather_app/)
+visit [here](https://shubd-dev.github.io/weather_app.github.io/)
