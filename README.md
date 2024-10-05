@@ -9,3 +9,5 @@ This is a simple **Weather App** built using **HTML**, **CSS**, **JavaScript**, 
 - Show weather conditions (e.g., clear, cloudy, rainy) ☁️🌧️☀️
 - Display a relevant weather icon 🌤️
 - Error handling for invalid city names ❌
+
+visit [here](https://shubd-dev.github.io/weather_app/)
