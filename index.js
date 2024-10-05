@@ -8,7 +8,7 @@ const weatherIcon = document.querySelector(".weather-icon");
  //first call geoCoderAPI to get longitude and lattitude 
 async function getWeatherByCity(cityName){
     
-    const geoCoderAPICall = `http://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=3&appid=${apiKey}`;
+    const geoCoderAPICall = `https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=3&appid=${apiKey}`;
     
     //fetching the latitude and logitude of the city in the search Box
     const response = await fetch(geoCoderAPICall);
